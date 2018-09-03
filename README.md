@@ -72,8 +72,4 @@ Source code of **Learning JavaScript Data Structures and Algorithms** book, thir
 
 * Or open the `examples/index.html` file to easily nagivate through all examples:
 
-* Demo: [https://javascript-ds-algorithms-book.firebaseapp.com](https://javascript-ds-algorithms-book.firebaseapp.com)
-
-<img src="examples/examples-screenshot.png">
-
 Happy Coding!
